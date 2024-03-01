@@ -151,16 +151,8 @@ const Page: React.FC = () => {
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="border border-gray-400 p-2 text-center">Anna</td>
+                      <td className="border border-gray-400 p-2 text-center">AAAAAAAAA</td>
                       <td className="border border-gray-400 p-2 text-center">123</td>
-                    </tr>
-                    <tr>
-                      <td className="border border-gray-400 p-2 text-center">Bob</td>
-                      <td className="border border-gray-400 p-2 text-center">456</td>
-                    </tr>
-                    <tr>
-                      <td className="border border-gray-400 p-2 text-center">Charlie</td>
-                      <td className="border border-gray-400 p-2 text-center">789</td>
                     </tr>
                   </tbody>
                 </table>
@@ -182,16 +174,12 @@ const Page: React.FC = () => {
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="border border-gray-400 p-2 text-center">Anna</td>
+                      <td className="border border-gray-400 p-2 text-center">AAA</td>
                       <td className="border border-gray-400 p-2 text-center">123</td>
                     </tr>
                     <tr>
-                      <td className="border border-gray-400 p-2 text-center">Bob</td>
+                      <td className="border border-gray-400 p-2 text-center">BB</td>
                       <td className="border border-gray-400 p-2 text-center">456</td>
-                    </tr>
-                    <tr>
-                      <td className="border border-gray-400 p-2 text-center">Charlie</td>
-                      <td className="border border-gray-400 p-2 text-center">789</td>
                     </tr>
                   </tbody>
                 </table>
